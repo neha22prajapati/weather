@@ -1,0 +1,14 @@
+.weather-card {
+  text-align: center;
+  display: inline-block;
+  width: 43%;
+  margin: 10px;
+}
+
+.weather-card img {
+  width: 100px;
+}
+
+.title {
+  text-align: center;
+}
